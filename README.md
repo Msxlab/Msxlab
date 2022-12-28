@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="https://github.com/ziya3435/ziya3435/blob/main/banner.jpg?raw=true">
 
-<!--
-**Msxlab/Msxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋 , I'm Mustafa</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Full Stack Test Automation Engineer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="justify">I am a software developer starting life anew. I'm here for adrenaline and my passion for adventure. Writing code and programming makes me happy. I am 29 years old and live in Switzerland. My favorite area is Cyber-Security. I am currently working as a Full stack test automation engineer.</p>
+
+
+
+
+
+
+
+
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Msxlab&show_icons=true&theme=radical)
