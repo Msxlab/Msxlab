@@ -48,24 +48,33 @@
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
 
 ## Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
+<br>
   
+## Social Networks :
   [![Instagram][3.2]][3]
 
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
 
 
 [3]: https://www.instagram.com/mstfyildiz.45
-
-[<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-
-<br>
+  
+##
 
 
 
 
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Msxlab&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Msxlab&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msxlab&layout=compact&langs_count-16&theme=dracula"/>
+ 
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Msxlab&&style=flat-square" align="center" />
+</div> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Msxlab&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
+
+![snake gif](https://github.com/Msxlab/Msxlab/blob/output/github-contribution-grid-snake.gif)
