@@ -1,4 +1,4 @@
-<img src="https://github.com/ziya3435/ziya3435/blob/main/banner.jpg?raw=true">
+
 
 <h1 align="center">Hi 👋 , I'm Mustafa</h1>
 
@@ -77,4 +77,4 @@
 
 
 
-![snake gif](https://github.com/Msxlab/Msxlab/blob/output/github-contribution-grid-snake.gif)
+
